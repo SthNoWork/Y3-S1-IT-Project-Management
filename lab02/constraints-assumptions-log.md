@@ -14,3 +14,4 @@
 | A-05 | Assumption | Server-authoritative timing clock maintains synchronization drift <= 200 ms relative to participant browser clocks. | owner: Frontend Dev | W5 -> R-05 |
 
 Review at every milestone. Overdue assumption = open issue.
+

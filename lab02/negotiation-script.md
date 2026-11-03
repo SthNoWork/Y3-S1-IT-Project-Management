@@ -43,3 +43,4 @@
 **Turn 12 · Sponsor:** That gives us exactly the visual impact we need for the audience without risking a live crash. Let us proceed with Counter-proposal 1.
 
 **Turn 13 · PM:** I will record this formally as DR-01 today and update our schedule baseline before Sprint 3 begins on Monday.
+

@@ -6,3 +6,4 @@ Fit to the 47 functional requirements,15,5,3,4,
 Weight check,"=SUM(B2:B5)",,,,must equal 100
 Weighted score,,"=SUMPRODUCT($B$2:$B$5,C2:C5)","=SUMPRODUCT($B$2:$B$5,D2:D5)","=SUMPRODUCT($B$2:$B$5,E2:E5)",
 Percent of maximum,,"=C7/(5*$B$6)","=D7/(5*$B$6)","=E7/(5*$B$6)",
+

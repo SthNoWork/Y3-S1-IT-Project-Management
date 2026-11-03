@@ -20,3 +20,4 @@ Realtime Quiz is a fixed-date, fixed-budget project. The driver is the week-14 p
 3. Server timer drift <= 200 ms with capacity for 20 concurrent sessions on 2 vCPU and 2 GB RAM (charter O4).
 
 ![Iron triangle for Realtime Quiz](triangle.png)
+

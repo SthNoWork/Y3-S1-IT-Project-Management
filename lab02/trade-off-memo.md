@@ -29,3 +29,4 @@ Select **Option A**. Option A delivers 100 % of core Must and Should features wi
 If no written decision is received by 2026-10-24, the team will execute Option A by default: all 94 h of Could scope will be removed from the baseline to protect the 8 Must features for the week-12 delivery.
 
 Details: [change-requests.md](change-requests.md)
+

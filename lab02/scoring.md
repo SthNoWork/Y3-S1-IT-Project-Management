@@ -66,3 +66,4 @@ Recomputed weighted scores:
 - **Hybrid:** $30 \times 3 + 25 \times 3 + 20 \times 4 + 25 \times 4 = 90 + 75 + 80 + 100 = 345$ (69 %)
 
 **Conclusion:** Winner is unchanged: **Build** remains the highest-scoring option with 435 points (87 %).
+

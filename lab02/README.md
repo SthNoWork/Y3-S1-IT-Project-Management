@@ -35,3 +35,4 @@ Constraint analysis, MoSCoW classification, weighted build-vs-buy scoring, trade
 | 2026-10-06 | 0.1 | Initial draft of Lab-02: constraint analysis, MoSCoW rating (300 h Must, 110 h Should, 42 h Could, 52 h Won't), build-vs-buy scoring matrix, and change requests CR-01..CR-03. |
 | 2026-10-13 | 0.2 | Completed constraints and assumptions log (C-01..C-05, A-01..A-05), drafted trade-off memo for CR-03. |
 | 2026-10-24 | 0.3 | Completed Challenge role-play negotiation script and signed Decision Record DR-01 approving week-10 demo milestone. |
+
