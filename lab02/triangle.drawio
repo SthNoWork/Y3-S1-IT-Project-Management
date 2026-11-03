@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2026-11-03T08:30:00.000Z" agent="Antigravity" version="24.0.0" type="device">
+  <diagram id="iron-triangle" name="Iron Triangle">
+    <mxGraphModel dx="800" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="triangle-edge1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#4A5568;" edge="1" parent="1" source="node-time" target="node-cost">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="triangle-edge2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#4A5568;" edge="1" parent="1" source="node-time" target="node-scope">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="triangle-edge3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#4A5568;" edge="1" parent="1" source="node-cost" target="node-scope">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="node-time" value="&lt;b&gt;TIME&lt;/b&gt;&lt;br&gt;Week 14 Pilot&lt;br&gt;&lt;i&gt;FIXED (Driver)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF5F5;strokeColor=#E53E3E;strokeWidth=3;fontSize=13;fontColor=#9B2C2C;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="node-cost" value="&lt;b&gt;COST / RESOURCES&lt;/b&gt;&lt;br&gt;200 USD · 40 h/wk&lt;br&gt;&lt;i&gt;FIXED&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF5F5;strokeColor=#E53E3E;strokeWidth=3;fontSize=13;fontColor=#9B2C2C;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="node-scope" value="&lt;b&gt;SCOPE&lt;/b&gt;&lt;br&gt;Should + Could (204 h)&lt;br&gt;&lt;i&gt;FLEXES (Buffer)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0FFF4;strokeColor=#38A169;strokeWidth=3;fontSize=13;fontColor=#22543D;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="node-quality" value="&lt;b&gt;QUALITY FLOOR&lt;/b&gt;&lt;br&gt;Latency &amp;lt;= 500 ms&lt;br&gt;CI Green &amp;gt;= 80%&lt;br&gt;Timer drift &amp;lt;= 200 ms&lt;br&gt;&lt;i&gt;(Never traded)&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EBF8FF;strokeColor=#3182CE;strokeWidth=2;fontSize=12;fontColor=#2B6CB0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="160" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
