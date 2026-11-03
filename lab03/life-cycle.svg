@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 540" width="980" height="540" style="background:#ffffff; font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <style>
+      .title { font-size: 18px; font-weight: bold; fill: #1e293b; }
+      .section-label { font-size: 13px; font-weight: bold; fill: #475569; }
+      .task-text { font-size: 11px; fill: #0f172a; font-weight: 500; }
+      .axis-text { font-size: 10px; fill: #64748b; }
+      .grid-line { stroke: #e2e8f0; stroke-width: 1; stroke-dasharray: 3 3; }
+      .milestone-text { font-size: 11px; font-weight: bold; fill: #991b1b; }
+      .milestone-date { font-size: 9.5px; fill: #b91c1c; }
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="30" y="32" class="title">Realtime Quiz · 14-Week Hybrid Life Cycle (PMBOK 7 / Scrum)</text>
+  <line x1="30" y1="46" x2="950" y2="46" stroke="#cbd5e1" stroke-width="1.5" />
+
+  <!-- Time Axis Header -->
+  <!-- 14 Weeks: start x=260, width=660, ~47.1px per week -->
+  <text x="260" y="65" class="axis-text" text-anchor="middle">29 Sep</text>
+  <text x="307" y="65" class="axis-text" text-anchor="middle">06 Oct</text>
+  <text x="354" y="65" class="axis-text" text-anchor="middle">13 Oct</text>
+  <text x="401" y="65" class="axis-text" text-anchor="middle">20 Oct</text>
+  <text x="495" y="65" class="axis-text" text-anchor="middle">03 Nov</text>
+  <text x="590" y="65" class="axis-text" text-anchor="middle">17 Nov</text>
+  <text x="684" y="65" class="axis-text" text-anchor="middle">01 Dec</text>
+  <text x="778" y="65" class="axis-text" text-anchor="middle">15 Dec</text>
+  <text x="872" y="65" class="axis-text" text-anchor="middle">29 Dec</text>
+  <text x="920" y="65" class="axis-text" text-anchor="middle">04 Jan</text>
+
+  <!-- Grid Lines -->
+  <line x1="260" y1="72" x2="260" y2="500" class="grid-line" />
+  <line x1="307" y1="72" x2="307" y2="500" class="grid-line" />
+  <line x1="354" y1="72" x2="354" y2="500" class="grid-line" />
+  <line x1="401" y1="72" x2="401" y2="500" class="grid-line" />
+  <line x1="495" y1="72" x2="495" y2="500" class="grid-line" />
+  <line x1="590" y1="72" x2="590" y2="500" class="grid-line" />
+  <line x1="684" y1="72" x2="684" y2="500" class="grid-line" />
+  <line x1="778" y1="72" x2="778" y2="500" class="grid-line" />
+  <line x1="872" y1="72" x2="872" y2="500" class="grid-line" />
+  <line x1="920" y1="72" x2="920" y2="500" class="grid-line" />
+
+  <!-- SECTION 1: PREDICTIVE -->
+  <rect x="25" y="78" width="925" height="110" fill="#f8fafc" rx="4" />
+  <text x="35" y="100" class="section-label">Predictive (Inception &amp; Arch)</text>
+
+  <!-- Task p1 -->
+  <rect x="260" y="85" width="47" height="20" rx="3" fill="#93c5fd" stroke="#3b82f6" />
+  <text x="250" y="99" class="task-text" text-anchor="end">Project Charter &amp; Setup</text>
+
+  <!-- Task p2 -->
+  <rect x="307" y="112" width="47" height="20" rx="3" fill="#93c5fd" stroke="#3b82f6" />
+  <text x="250" y="126" class="task-text" text-anchor="end">Architecture Spike (SockJS)</text>
+
+  <!-- Task p3 -->
+  <rect x="354" y="139" width="47" height="20" rx="3" fill="#93c5fd" stroke="#3b82f6" />
+  <text x="250" y="153" class="task-text" text-anchor="end">Requirements Baseline &amp; DoR</text>
+
+  <!-- Milestone G1 -->
+  <polygon points="401,162 408,169 401,176 394,169" fill="#dc2626" stroke="#991b1b" stroke-width="1.5" />
+  <text x="415" y="172" class="milestone-text">Gate G1: Plan Approval (19 Oct)</text>
+
+  <!-- SECTION 2: AGILE DELIVERY -->
+  <rect x="25" y="196" width="925" height="175" fill="#f0fdf4" rx="4" />
+  <text x="35" y="218" class="section-label" fill="#166534">Agile delivery (4 x 14-day Sprints)</text>
+
+  <!-- Sprint 1 -->
+  <rect x="401" y="206" width="94" height="22" rx="3" fill="#86efac" stroke="#16a34a" />
+  <text x="250" y="221" class="task-text" text-anchor="end">Sprint 1: Live Session Core (14d)</text>
+
+  <!-- Sprint 2 -->
+  <rect x="495" y="235" width="95" height="22" rx="3" fill="#86efac" stroke="#16a34a" />
+  <text x="250" y="250" class="task-text" text-anchor="end">Sprint 2: Scoring &amp; Leaderboard (14d)</text>
+
+  <!-- Milestone G2 -->
+  <polygon points="590,266 597,273 590,280 583,273" fill="#dc2626" stroke="#991b1b" stroke-width="1.5" />
+  <text x="604" y="276" class="milestone-text">Gate G2: MVP Demo (16 Nov)</text>
+
+  <!-- Sprint 3 -->
+  <rect x="590" y="287" width="94" height="22" rx="3" fill="#86efac" stroke="#16a34a" />
+  <text x="250" y="302" class="task-text" text-anchor="end">Sprint 3: Analytics &amp; Export (14d)</text>
+
+  <!-- Sprint 4 -->
+  <rect x="684" y="316" width="94" height="22" rx="3" fill="#86efac" stroke="#16a34a" />
+  <text x="250" y="331" class="task-text" text-anchor="end">Sprint 4: Notifications &amp; Open Day (14d)</text>
+
+  <!-- Milestone G3 -->
+  <polygon points="778,347 785,354 778,361 771,354" fill="#dc2626" stroke="#991b1b" stroke-width="1.5" />
+  <text x="792" y="357" class="milestone-text">Gate G3: Feature Complete (14 Dec)</text>
+
+  <!-- SECTION 3: RELEASE -->
+  <rect x="25" y="379" width="925" height="135" fill="#fff7ed" rx="4" />
+  <text x="35" y="401" class="section-label" fill="#9a3412">Release (Hardening &amp; Pilot)</text>
+
+  <!-- Task r1 -->
+  <rect x="778" y="391" width="94" height="20" rx="3" fill="#fdba74" stroke="#ea580c" />
+  <text x="250" y="405" class="task-text" text-anchor="end">Load Testing &amp; VPS Hardening</text>
+
+  <!-- Task r2 -->
+  <rect x="872" y="418" width="34" height="20" rx="3" fill="#fdba74" stroke="#ea580c" />
+  <text x="250" y="432" class="task-text" text-anchor="end">Pilot Dry Run &amp; Rehearsal</text>
+
+  <!-- Task r3 -->
+  <rect x="906" y="445" width="14" height="20" rx="3" fill="#f97316" stroke="#c2410c" />
+  <text x="250" y="459" class="task-text" text-anchor="end">Live 50-Student Pilot</text>
+
+  <!-- Milestone G4 -->
+  <polygon points="920,474 927,481 920,488 913,481" fill="#dc2626" stroke="#991b1b" stroke-width="1.5" />
+  <text x="655" y="484" class="milestone-text" text-anchor="end">Gate G4: Final Pilot &amp; Handover (04 Jan)</text>
+
+  <!-- Legend -->
+  <rect x="30" y="515" width="14" height="14" fill="#93c5fd" stroke="#3b82f6" rx="2" />
+  <text x="50" y="526" class="axis-text">Predictive Phase</text>
+  <rect x="180" y="515" width="14" height="14" fill="#86efac" stroke="#16a34a" rx="2" />
+  <text x="200" y="526" class="axis-text">14-Day Sprint</text>
+  <rect x="310" y="515" width="14" height="14" fill="#fdba74" stroke="#ea580c" rx="2" />
+  <text x="330" y="526" class="axis-text">Release Hardening</text>
+  <polygon points="450,517 456,523 450,529 444,523" fill="#dc2626" stroke="#991b1b" stroke-width="1.5" />
+  <text x="464" y="526" class="axis-text">Phase Gate Milestone ($G1$–$G4$)</text>
+</svg>
