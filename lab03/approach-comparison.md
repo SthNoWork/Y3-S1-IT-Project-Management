@@ -60,3 +60,4 @@ The **Hybrid approach** is overwhelmingly recommended because it provides the it
 
 **Switching Condition:**  
 Pure Scrum would be selected instead if and only if the departmental sponsor waived all formal interim stage-gate approvals ($G1$–$G4$), removed the external PM's contractual authority, and granted the student Scrum team complete self-directed autonomy over the scope baseline and delivery timeline.
+

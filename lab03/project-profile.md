@@ -26,3 +26,4 @@ $$\text{Profile Index} = \frac{\sum (W \times S)}{100} = \frac{330}{100} = 3.30$
 ## 2. Profile Summary
 
 Realtime Quiz is a fixed-deadline educational software initiative characterized by high technical uncertainty and stringent academic governance. The profile is heavily driven by two dominant factors: severe technical uncertainty surrounding real-time WebSocket concurrency (Weight: 25, Score: 4) and an essential requirement for early, iterative stakeholder feedback (Weight: 20, Score: 5) prior to the week-14 pilot. Therefore, Task 2 must systematically evaluate **Waterfall**, **Pure Scrum**, and a tailored **Hybrid** approach to determine how best to reconcile rigid calendar gates with rapid sprint-based technical learning.
+

@@ -105,3 +105,4 @@ The Project Manager compiles a weekly **Highlight Report** reviewing tolerance m
 | **Documentation Handover** | End-to-end operational runbook, disaster recovery manual, and user guide delivered as Markdown in `/docs`. | Course Lecturer | Lead Developer |
 | **Lessons Learned** | Consolidated retrospective register from Sprints 1–4 and closure workshop summary archived. | Project Manager | Scrum Master |
 | **Administrative Closure** | Cash ledger verified ($\le 200\text{ USD}$), student grades finalized, and project completion certificate signed. | Sponsor | Project Manager |
+

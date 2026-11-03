@@ -6,3 +6,4 @@ B-04,Student lobby join via room code,FR-S3..FR-S4,Must,3,Student D,"Given an ac
 B-05,WebSocket question broadcast,FR-S5,Must,5,Student B,"Given connected students in a session, When the instructor triggers question display, Then the question text and answer choices broadcast to all clients within 500 ms over WebSocket."
 B-06,Synchronized per-question countdown timer,FR-Q3 FR-S5,Must,3,Student D,"Given a broadcast question with a 30-second duration, When countdown begins, Then timers tick synchronously across screens and answer submissions lock at 0 seconds."
 B-07,Answer submission and receipt acknowledgment,FR-C1..FR-C2,Must,2,Student C,"Given an active question countdown, When a student selects and submits an answer choice, Then the server records the submission timestamp and returns a success acknowledgment."
+

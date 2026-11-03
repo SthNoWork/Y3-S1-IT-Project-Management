@@ -38,3 +38,4 @@ Governance is maintained through four formal stage gates ($G1$ to $G4$) aligned 
 | Date | Version | Author | Change Summary |
 | :---: | :---: | :---: | :--- |
 | 2026-10-06 | 0.1 | PM & Scrum Team | Lab-03: Life cycle selection, Scrum setup, and governance framework added. |
+

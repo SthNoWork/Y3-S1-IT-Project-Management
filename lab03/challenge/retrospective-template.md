@@ -44,3 +44,4 @@
 | - | :--- | :--- | :---: | :--- |
 | **A-1** | **Enforce Mid-Sprint Integration Checkpoint (Day 5):** All API and WebSocket contracts must have mocked integration tests passing by the end of Day 5. | Eliminates end-of-sprint integration panics (like B-06). | Student B (SM) | Verified at Day 5 Daily Scrum via mock integration test suite. |
 | **A-2** | **Standardize Docker Compose Dev Containers:** Mandate that all developers run the identical unified Docker Compose environment locally from Day 1. | Eliminates environment configuration mismatches and wasted debugging hours. | Student C (Dev) | Clean startup script validated in Sprint 2 Planning. |
+

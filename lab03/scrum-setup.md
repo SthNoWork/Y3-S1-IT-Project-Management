@@ -63,3 +63,4 @@ A backlog item is considered **Done** and releasable only when all generic crite
 7. **Clean Merge:** Feature branch successfully rebased and merged into `develop` without conflicts.
 8. **Staging Verified:** Increment deployed and manually smoke-tested in the local staging environment.
 9. **PO Acceptance:** Product Owner inspects the functionality and signs off against all acceptance criteria.
+

@@ -45,3 +45,4 @@ Planning Poker records, estimation debate convergence dialogues, and capacity al
 - **Dev A (PO):** *"The proxy configuration was tested in Week 2 spike. For Sprint 1, our acceptance test runs in our local Docker staging environment, not the live campus gateway. Disconnection recovery will be estimated as a separate story in Sprint 2."*
 - **Dev B:** *"Understood. Limiting scope strictly to broadcast delivery makes it a solid 5 points."*
 - **Outcome:** **Unanimous 5 points.**
+
